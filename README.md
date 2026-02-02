@@ -33,15 +33,6 @@ From **iOS Developer** to **Product & Technology Executive** — I bridge techni
 👥 50+ releases in continuous delivery
 ```
 
-## 🔗 Featured Projects
-
-**Early-stage iOS learning projects** (2020) — exploring fintech, health, and e-commerce:
-
-- **finSightAI:** Financial data insights and tracking
-- **QuitSmokeAI:** Behavioral change app for smoking cessation
-- **BMI-Calculator:** Health metrics calculator
-- **Fatura-Olustur-App:** Invoice generation tool
-
 *These represent my journey from engineering to product development. Current focus is on strategic product leadership and AI-powered transformation at enterprise scale.*
 
 ## 📫 Let's Connect
