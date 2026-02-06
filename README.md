@@ -29,7 +29,7 @@ From **iOS Developer** to **Product & Technology Executive** — I bridge techni
 📈 30% conversion improvement delivered
 🔁 18% repeat purchase rate increase
 ⚡ 40% faster partner onboarding
-📝 1,000+ user stories shipped
+📝 4,000+ user stories shipped
 👥 50+ releases in continuous delivery
 ```
 
