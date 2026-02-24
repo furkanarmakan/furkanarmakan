@@ -2,7 +2,7 @@
 
 **Product & Technology Leader** building AI-powered digital transformations across e-commerce, fintech, and digital health.
 
-Currently leading operational excellence at **Ahlatcı Holding** (70+ companies, 5,000+ employees). Previously scaled products at **Modanisa** ($100M+ GMV, 149 countries) and **Eczacıbaşı Evital**.
+Currently leading operational excellence at **Ahlatcı Holding** (70+ companies, 5,000+ employees). Previously scaled products at **Modanisa** ($100M+ GMV, 149 countries) and **Eczacıbaşı Evital**
 
 ## 🎯 What I Do
 
